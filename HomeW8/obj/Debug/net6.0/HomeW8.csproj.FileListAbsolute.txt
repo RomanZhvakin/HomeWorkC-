@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\учеба GeekBrains\HomeWC#\HomeW8\bin\Debug\net6.0\HomeW8.exe
+C:\Users\user\Desktop\учеба GeekBrains\HomeWC#\HomeW8\bin\Debug\net6.0\HomeW8.deps.json
+C:\Users\user\Desktop\учеба GeekBrains\HomeWC#\HomeW8\bin\Debug\net6.0\HomeW8.runtimeconfig.json
+C:\Users\user\Desktop\учеба GeekBrains\HomeWC#\HomeW8\bin\Debug\net6.0\HomeW8.dll
+C:\Users\user\Desktop\учеба GeekBrains\HomeWC#\HomeW8\bin\Debug\net6.0\HomeW8.pdb
+C:\Users\user\Desktop\учеба GeekBrains\HomeWC#\HomeW8\obj\Debug\net6.0\HomeW8.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\учеба GeekBrains\HomeWC#\HomeW8\obj\Debug\net6.0\HomeW8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\учеба GeekBrains\HomeWC#\HomeW8\obj\Debug\net6.0\HomeW8.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\учеба GeekBrains\HomeWC#\HomeW8\obj\Debug\net6.0\HomeW8.AssemblyInfo.cs
+C:\Users\user\Desktop\учеба GeekBrains\HomeWC#\HomeW8\obj\Debug\net6.0\HomeW8.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\учеба GeekBrains\HomeWC#\HomeW8\obj\Debug\net6.0\HomeW8.dll
+C:\Users\user\Desktop\учеба GeekBrains\HomeWC#\HomeW8\obj\Debug\net6.0\refint\HomeW8.dll
+C:\Users\user\Desktop\учеба GeekBrains\HomeWC#\HomeW8\obj\Debug\net6.0\HomeW8.pdb
+C:\Users\user\Desktop\учеба GeekBrains\HomeWC#\HomeW8\obj\Debug\net6.0\HomeW8.genruntimeconfig.cache
+C:\Users\user\Desktop\учеба GeekBrains\HomeWC#\HomeW8\obj\Debug\net6.0\ref\HomeW8.dll
